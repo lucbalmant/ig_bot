@@ -7,3 +7,4 @@ requirements:
 - vs code or similar 
 - chrome driver (https://chromedriver.chromium.org/downloads)
 - selenium lib
+- instagram account
